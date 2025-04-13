@@ -1,2 +1,2 @@
 # git_tut
-tis is for tutorial purposes
+this is for tutorial purposes
